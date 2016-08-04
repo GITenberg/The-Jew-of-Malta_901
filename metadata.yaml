@@ -1,0 +1,35 @@
+_repo: The-Jew-of-Malta_901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Christopher
+    aliases:
+    - Marlow, Christopher
+    - Marloe, Christopher
+    - Marlo, Christopher
+    birthdate: 1564
+    deathdate: 1593
+    gutenberg_agent_id: '410'
+    url: http://www.gutenberg.org/2009/agents/410
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
+description: The Jew of Malta is a play by Christopher Marlowe, probably written in
+  1589 or 1590. The title character, Luca Miceli Demajo is a complex character likely
+  to provoke mixed reactions in an audience. Like Marlowe's other protagonists, such
+  as Tamburlaine and Doctor Faustus, he dominates the play's action. There has been
+  extensive debate about the play's portrayal of Jews and how Elizabethan audiences
+  would have viewed it.-- Excerpted from Wikipedia, the free encyclopedia.
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Jews -- Malta -- Drama'
+- !lcsh 'Tragedies'
+- GITenberg
+title: The Jew of Malta
+url: http://www.gutenberg.org/ebooks/901
