@@ -1,5 +1,8 @@
 _repo: The-Jew-of-Malta_901
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marlowe, Christopher
@@ -18,6 +21,8 @@ description: The Jew of Malta is a play by Christopher Marlowe, probably written
   as Tamburlaine and Doctor Faustus, he dominates the play's action. There has been
   extensive debate about the play's portrayal of Jews and how Elizabethan audiences
   would have viewed it.-- Excerpted from Wikipedia, the free encyclopedia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/901#The-Jew-of-Malta
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
